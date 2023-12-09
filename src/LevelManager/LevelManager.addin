@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+  <AddIn Type="Application">
+    <Name>LevelManager</Name>
+    <Description>Level Manager </Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Assembly>C:\Projects\Revit\LevelManager\code\LevelManager\src\LevelManager\bin\Debug\LevelManager.dll</Assembly>
+    <AddInId>1BFEAAA2-9A28-4E72-ACA7-6F12327E8B5B</AddInId>
+    <FullClassName>LevelManager.App</FullClassName>
+    <VendorId>Codehaks</VendorId>
+    <VendorDescription>codehaks, www.codehaks.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
